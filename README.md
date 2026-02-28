@@ -1,2 +1,2 @@
 # algorithms
-Repository for my data structures and Algorithms class in cpp
+Repository for learning data structures and algorithms in cpp
